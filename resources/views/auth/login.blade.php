@@ -14,7 +14,7 @@
         <input type="hidden" name="_token" value="{{ csrf_token() }}" />
         <img class="mb-4" src="{!! url('images/banbeis.png') !!}" alt="" width="200" height="100">
 
-        <h1 class="h3 mb-3 fw-normal">BANBEIS SHEBA BOX<br> ADMIN PANEL</h1>
+        <h1 class="h3 mb-3 fw-normal">BANBEIS JOB<br> ADMIN PANEL</h1>
 
         @include('layouts.partials.messages')
 
