@@ -8,8 +8,8 @@ return [
         'port' => '1521',
         'database' => 'ORCL',
         'service_name' => 'orcl',
-        'username' => 'sebabox',
-        'password' => 'sebabox',
+        'username' => 'ban_job',
+        'password' => 'ban_job',
         'charset' => 'AL32UTF8',
         'prefix' => '',
     ]

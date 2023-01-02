@@ -3,9 +3,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Suzon Das">
-    <meta name="generator" content="Suzon Das">
-    <title>BNABEIS JOB</title>
+    <meta name="author" content="BANBEIS ICT DIV">
+    <meta name="generator" content="BANBEIS ICT DIV">
+    <title>BANBEIS JOB</title>
     <!-- Bootstrap core CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
